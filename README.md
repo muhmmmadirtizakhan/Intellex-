@@ -1,136 +1,168 @@
-# INTELLEX 🚀
-**Intelligent Multi-Model PDF Analyzer System**  
-**Competition Edition – 2026**
+# 🚀 INTELLEX — Intelligent PDF Analyzer System 🤖📄
 
-**Developed By:** Irtiza Khan 👨‍💻  
-BSSE Student | Junior Full Stack Developer | AI-Integrated System Developer
+<p align="center">
+  <img src="https://justbuildthings.com/_next/image?url=%2Fimages%2Fpdf-analysis-icons%2Fdocument-analyzer.png&w=3840&q=70" />
+</p>
 
----
-
-## 🏆 Achievement
-INTELLEX was successfully presented in the **PROCOM Competition Hackathon 🏁**.  
-The project secured **5th Position 🥉** among competitive innovative systems.  
-
-This demonstrates **practical strength 💪**, **innovation capability 💡**, and **AI integration 🤖** of the system.
+<p align="center">
+  🧠 Transforming Documents into Intelligent Knowledge Systems
+</p>
 
 ---
 
-## 1. Abstract 📌
-INTELLEX is an **AI-powered PDF Analyzer 🤖📄** that transforms static PDFs into **intelligent knowledge systems 🧠💻**.  
+## 🏆 Achievement 🥇
 
-**Key Features:**  
-- 📄 Automated Text Extraction  
-- 🖼 Embedded Image Detection  
-- 🧠 AI-Based Image Description  
-- 🤖 Multi-Model Vision Analysis  
-- 🔎 Intelligent Semantic Search  
-- 💡 Context-Aware Question Answering  
+🏁 Successfully presented at **PROCOM Hackathon 2026**  
+🥉 Secured **5th Position** among innovative AI systems  
 
-INTELLEX converts ordinary PDFs into **smart, searchable AI-driven knowledge environments 🌐📚**.
+💡 Demonstrates:
+- 🚀 Innovation  
+- 💪 Practical skills  
+- 🤖 AI integration expertise  
 
 ---
 
-## 2. Introduction 📖
-In the digital era 🌐, PDFs contain vast amounts of **structured and unstructured information 📄🖼**.  
-Manual analysis is **inefficient ⏳** and **time-consuming ⌛**.  
+## 🚀 Badges 🏷️
 
-INTELLEX combines **rule-based processing ⚙** with **AI intelligence 🤖🧠** to let users **interact with documents smartly 💡✨**.
+<p align="center">
+  <img src="https://img.shields.io/badge/AI-Multi%20Model-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Backend-Python-blue?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/PDF-PyMuPDF-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LLM-Groq-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Deployment-Local%20%2F%20Web-black?style=for-the-badge" />
+</p>
 
 ---
 
-## 3. Core Features ⚙
+## 📋 Overview 📖
+**INTELLEX** is an advanced **AI-powered PDF Analyzer** that converts static documents into **interactive, intelligent knowledge systems**.  
 
-### 3.1 📄 Text Extraction
-- Extracts **complete text 📝**  
-- Displays **structured content 📑**  
-- Identifies **key entities & keywords 🔑**
+✨ It combines:
+- 🤖 Multi-model AI  
+- ⚙️ Rule-based processing  
+- 🧠 Semantic intelligence  
 
-### 3.2 🖼 Image Detection & Extraction
-- Automatically detects **embedded images 🖼**  
-- Extracts & displays **images 🔍**  
-- Navigation (**Previous / Next ⬅️➡️**)  
-- Smart indexing of **image positions 📌**
+📌 Result: Smart, searchable, and AI-driven document interaction.
 
-### 3.3 🤖 AI Image Description (Multi-Model)
-**Supported Models 🧠:**  
-- Qwen Vision Model   
-- Claude Vision AI 🤖  
-- GPT-4o Mini 🧠  
-- LLaMA Vision 🦙  
+---
 
-When an image is detected, the AI **analyzes it 🖼🔍** and generates **contextual description ✍️📄**.
+## ✨ Core Features 🌟
 
-### 3.4 🧠 Intelligent Groq Search
-- Context-based **answers 📝**  
-- **Page-referenced responses 📄**  
-- **Deep semantic understanding 🧠**  
-- Accurate **document-specific replies ✅**  
-- **Reasoning across multiple pages 📚**  
+### 📄 Text Extraction
+- 📝 Complete text extraction  
+- 📑 Structured content display  
+- 🔑 Keyword & entity detection  
 
-Users can ask questions and get **AI-driven responses instantly ⚡🤖**.
+### 🖼 Image Detection & Extraction
+- 🔍 Detect embedded images  
+- 🖼 Extract & display visuals  
+- ⬅️➡️ Navigation system  
+- 📌 Smart indexing  
 
-### 3.5 ⚡ Smart & Fast Modes
-**Smart Mode 🤖🧠:**  
+### 🤖 AI Image Description
+Supports multiple AI models:
+
+- 🧠 Qwen Vision  
+- 🤖 Claude Vision  
+- 💡 GPT-4o Mini  
+- 🦙 LLaMA Vision  
+
+➡️ Generates **context-aware image descriptions automatically**
+
+---
+
+### 🧠 Intelligent Search (Groq AI)
+- 🔎 Semantic search  
+- 📄 Page-referenced answers  
+- 🧠 Deep reasoning  
+- 📚 Multi-page understanding  
+- ⚡ Instant responses  
+
+---
+
+### ⚡ Smart & Fast Modes
+
+**🤖 Smart Mode**
 - AI-powered  
-- **Deep contextual reasoning 🧩**  
-- High-accuracy responses ✅  
+- Deep contextual reasoning  
+- High accuracy  
 
-**Fast Mode ⚡:**  
-- Rule-based ⚙  
-- Offline functionality 📴  
-- Quick & lightweight 🚀
-
----
-
-## 4. System Architecture 🏗
-Components:  
-1. User Interface Layer 🖥  
-2. PDF Processing Engine (PyMuPDF) 📄  
-3. Image Extraction Module 🖼  
-4. Multi-Model AI Vision Engine 🤖  
-5. Groq Intelligence Module 🧠  
-6. Secure Data Handling Layer 🔒  
-
-Benefits:  
-- **Scalability 📈**  
-- **Maintainability 🛠**  
-- **Performance ⚡**  
-- **AI extensibility 🤖**
+**⚡ Fast Mode**
+- Rule-based  
+- Offline support  
+- Lightweight & fast  
 
 ---
 
-## 5. Privacy & Security 🔒
-- PDFs remain **locally stored 🏠**  
-- Only required text sent to AI (Smart Mode) 🤖  
-- **No permanent external storage ❌💾**  
-- **Secure API key integration 🔑**  
-- **User data protected 🛡**
+## 🏗️ System Architecture ⚙️
+
+### 🔹 Core Components
+1. 🖥️ User Interface  
+2. 📄 PDF Engine (PyMuPDF)  
+3. 🖼 Image Extraction Module  
+4. 🤖 Multi-Model Vision Engine  
+5. 🧠 Groq Intelligence Module  
+6. 🔒 Secure Data Layer  
+
+### 🔹 Benefits
+- 📈 Scalable  
+- 🛠 Maintainable  
+- ⚡ High performance  
+- 🤖 AI extensible  
 
 ---
 
-## 6. Use Cases 🎯
-- Academic Research 📚  
-- Legal Document Review ⚖️  
-- Business Report Analysis 📊  
-- AI Demo Projects 🤖  
-- Hackathon & Competitions 🏆  
-- Intelligent Document Automation 🧠⚡
+## 🔒 Privacy & Security 🛡
+
+- 🏠 PDFs processed locally  
+- 🤖 Only required data sent to AI  
+- ❌ No permanent storage  
+- 🔑 Secure API usage  
+- 🛡 User data protection  
 
 ---
 
-## 7. Project Highlights 🌟
-- Hybrid AI + Rule-Based 🤖⚙  
-- Multi-Model Vision 🖼🧠  
-- Intelligent Semantic Search 🔎  
-- Cross-Platform 💻📱  
-- Competition-Tested 🏁  
-- Hackathon-Proven 🏆
+## 🎯 Use Cases 📊
+
+- 📚 Academic Research  
+- ⚖️ Legal Document Analysis  
+- 📊 Business Reports  
+- 🤖 AI Demonstrations  
+- 🏆 Hackathons  
+- 🧠 Smart Automation  
 
 ---
 
-**Software Name:** INTELLEX  
-**Module:** Intelligent PDF Analyzer  
-**Version:** 1.0  
-**Year:** 2026  
+## 🌟 Highlights 💎
 
-**“Innovation transforms documents into intelligence 🚀💡”**
+- 🤖 AI + Rule-Based Hybrid System  
+- 🧠 Multi-Model Intelligence  
+- 🔎 Semantic Search Engine  
+- 💻 Cross-platform  
+- 🏁 Competition tested  
+- 🏆 Hackathon proven  
+
+---
+
+## 📦 Project Info ℹ️
+
+- 📌 Software: INTELLEX  
+- 🧩 Module: Intelligent PDF Analyzer  
+- 🔢 Version: 1.0  
+- 📅 Year: 2026  
+
+---
+
+## 👨‍💻 Author 🧑‍🚀
+**Muhammad Irtiza Khan**  
+
+---
+
+## ⭐ Support 💖
+If you like this project, give it a ⭐ on GitHub!
+
+---
+
+<p align="center">
+  🚀 “Innovation transforms documents into intelligence” 💡
+</p>
